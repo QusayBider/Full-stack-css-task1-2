@@ -1,0 +1,22 @@
+.main{
+    background-color: white;
+    text-align: center;
+    p{
+        color:grey ;
+    }
+}
+.information{
+    float: left;
+    width: 33%;
+} 
+.clearfix{
+    clear: left;
+}
+p{
+    text-align: center;
+}
+
+.Last_pargraph{
+    display: inline-block;
+    width: 50%;
+}
